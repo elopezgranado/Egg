@@ -21,3 +21,5 @@ public class Test {
 }
 
 private String atrib1;
+
+private String atrib2;
