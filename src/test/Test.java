@@ -14,12 +14,11 @@ public class Test {
     /**
      * @param args the command line arguments
      */
+    public String atrib01;
+    public String atrib02;
+    
     public static void main(String[] args) {
         System.out.println("Hola");
     }
     
 }
-
-private String atrib1;
-
-private String atrib2;
